@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://profile-counter.glitch.me/zwx8981/count.svg
+![Visitor Count](https://profile-counter.glitch.me/zwx8981/count.svg)
 <!--
 **zwx8981/zwx8981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
