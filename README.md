@@ -1,5 +1,5 @@
 ### Weixia Zhang (张维夏)👋
-I am a research associate at AI Institute, Shanghai Jiao Tong University. Currently, I work on perceptual quality evaluation and enhancement for visual content produced by various manners, i.e., PGC, UGC, and AIGC.
+I am an Associate Research Scientist at AI Institute, Shanghai Jiao Tong University. Currently, I work on perceptual quality evaluation and enhancement for visual content produced by various manners, i.e., PGC, UGC, and AIGC.
 
 ![Visitor Count](https://profile-counter.glitch.me/zwx8981/count.svg)
 <!--
